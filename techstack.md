@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 tdubs42/react-stateful-widgets is built on the following main stack:
+
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -10,11 +11,13 @@ tdubs42/react-stateful-widgets is built on the following main stack:
 - [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 tdubs42/react-stateful-widgets is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -23,14 +26,15 @@ tdubs42/react-stateful-widgets is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tdubs42/react-stateful-widgets](https://github.com/tdubs42/react-stateful-widgets)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|11/09/23 <br/>Report generated|
+|13<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -129,4 +133,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
